@@ -1,0 +1,8 @@
+# For vscode
+
+.vscode/*
+!.vscode/setting.json
+!.vscode/tasks.json
+!.vscode/lauch.json
+!.vscode/extensions.json
+*.code-workspace
